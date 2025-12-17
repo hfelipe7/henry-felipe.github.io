@@ -1,89 +1,111 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Henry Felipe – IT Specialist & Data Analytics
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Henry Felipe
+IT Specialist | Applied Technology & Digital Transformation | Data Analytics
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:hfelipem@gmail.com">hfelipem@gmail.com</a> |
+829-479-5422 |
+<a href="https://henry-felipe.github.io">Portfolio</a>
 </div>
 
+---
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+IT Specialist with a strong focus on applied technology, digital transformation, and data analytics. Experienced in data programming, insight generation, and visualization using modern analytics tools. Skilled in designing and supporting cloud-based and on-premise solutions leveraging AWS, Microsoft Azure, and Google Cloud Platform to improve operational efficiency, automate processes, and enable data-driven decision-making.
 
-### Specialized in
+---
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Specialized In
 
+Data programming, data cleaning and transformation, exploratory data analysis, insight generation, data visualization, cloud-enabled analytics, and secure IT systems.
 
-### Research interests
+---
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Technical Skills
 
+### Data Analytics & Programming
+- Python for data analysis and automation
+- Data cleaning, transformation, and validation
+- Exploratory data analysis (EDA)
+- Insight generation and reporting
+- SQL and relational data concepts
+
+### Data Visualization & BI
+- Tableau
+- Power BI
+- Data storytelling and dashboard design
+
+### Cloud Platforms
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- Cloud-based data and analytics solutions
+
+### IT & Digital Transformation
+- IT infrastructure support
+- Process automation
+- Systems integration
+- Secure and scalable technology solutions
+
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Bachelor’s of Applied Technology`  
+__Brigham Young University–Idaho__, USA
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+---
 
-- Sizar
+## Professional Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Computer Support  
+__Brigham Young University–Idaho__, USA
 
-- Fellow
+- Provided technical support for computer systems and end users
+- Assisted with system configuration, troubleshooting, and maintenance
+- Supported IT operations and digital workflows
 
+---
 
+## Certifications & Training
 
-## Awards
+### Diploma in Cybersecurity and Cyber Defense  
+__Instituto Tecnológico de Las Américas (ITLA)__
 
-`2012`
-President, *Royal Society*, London, UK
+---
 
-Associate, *French Academy of Science*, Paris, France
+### Technical Degree in Industrial Electronics – Communications  
+__Instituto Politécnico Loyola (IPL)__
 
+---
 
+## Data Analytics Experience
 
-## Publications
+- Developed data pipelines to clean, prepare, and analyze structured datasets
+- Created dashboards and reports using Tableau and Power BI
+- Applied analytics techniques to extract insights and support decision-making
+- Integrated analytics solutions with cloud platforms (AWS, Azure, GCP)
+- Published data projects using GitHub and web-based portfolios
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+---
 
-### Journals
+## Tools & Technologies
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Python
+- Tableau
+- Power BI
+- SQL Server
+- Git & GitHub
+- AWS, Azure, Google Cloud Platform
+- VS Code
 
-`1669`
-Lectiones opticæ.
+---
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+<!-- Last updated: December 2025 -->
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
